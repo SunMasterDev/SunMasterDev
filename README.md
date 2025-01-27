@@ -7,7 +7,7 @@ Front-End Developer
 I've been learning React.js, and other framework for years. And now I'm learning the backend for fullstack.
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning BackEnd for be Full Stack Developer
+* 🧠  I'm learning BackEnd to become Full Stack Developer
 * 🤝  I'm open to collaborating on Landing Page
 
 ### Skills
