@@ -1,14 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My NickName is Sun
 =================================================================================================================================
 
-Front-End Developer
+Front-End Developer 
 -------------------
 
-I've been learning React.js, and other framework for years. And now I'm learning the backend for fullstack.
+I'm a Front-End Developer passionate about building responsive and modern web applications using React.js, Next.js, and Tailwind CSS.
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm learning BackEnd to become Full Stack Developer
 * 🤝  I'm open to collaborating on Landing Page
+
+Frontend: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+Tools: Git, GitHub, VS Code, Figma
+
+🛠️ What I Do
+Develop high-performance and SEO-friendly web applications
+
+Create landing pages, portfolios, and business websites
+
+Convert Figma designs to fully responsive web pages
+
+Optimize UI/UX for better user experience
 
 ### Skills
 
