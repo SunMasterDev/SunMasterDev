@@ -20,7 +20,6 @@ Create landing pages, portfolios, and business websites
 
 Convert Figma designs to fully responsive web pages
 
-Optimize UI/UX for better user experience
 
 ### Skills
 
