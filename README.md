@@ -7,7 +7,7 @@ Front-End Developer
 I'm a Front-End Developer passionate about building responsive and modern web applications using React.js, Next.js, and Tailwind CSS.
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning BackEnd to become Full Stack Developer
+* 🧠  I'm learning Full Stack
 * 🤝  I'm open to collaborating on Landing Page
 
 Frontend: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
